@@ -1,0 +1,10 @@
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\bin\Debug\Restoran_Kayıt_RezervasyonSistemi.exe.config
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\bin\Debug\Restoran_Kayıt_RezervasyonSistemi.exe
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\bin\Debug\Restoran_Kayıt_RezervasyonSistemi.pdb
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.Form1.resources
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.Properties.Resources.resources
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.exe
+C:\Users\mertc\OneDrive\Masaüstü\C# Form\Restoran_Kayıt_RezervasyonSistemi\Restoran_Kayıt_RezervasyonSistemi\obj\Debug\Restoran_Kayıt_RezervasyonSistemi.pdb
